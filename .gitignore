@@ -1,0 +1,32 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# SystemCare logs & user telemetry caches
+*.log
+systemcare.log
+logs/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows system artifacts
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
