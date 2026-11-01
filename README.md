@@ -98,8 +98,8 @@ SystemCare is designed as a genuine, trustworthy Windows desktop utility:
 ### Quick Start
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/systemcare.git
-   cd systemcare
+   git clone https://github.com/hannarajput/SystemCare.git
+   cd SystemCare
    ```
 2. Run the application using the automated launcher:
    ```cmd
@@ -130,14 +130,16 @@ CI testing is configured via GitHub Actions (`.github/workflows/tests.yml`) acro
 
 ## 🖼 Screenshots
 
-<!-- Screenshots placeholder -->
-| Overview Dashboard | System Health Diagnosis |
-| :---: | :---: |
-| *(Screenshot Placeholder: Overview)* | *(Screenshot Placeholder: Health)* |
+### Overview Dashboard (Live System Monitor)
+![SystemCare Overview Dashboard](docs/screenshots/overview.png)
 
-| Safe Boost Mode | Duplicate File Finder |
+| Safe Boost Optimizer | Startup Applications Manager |
 | :---: | :---: |
-| *(Screenshot Placeholder: Boost)* | *(Screenshot Placeholder: Duplicates)* |
+| ![Safe Boost Mode](docs/screenshots/safe_boost.png) | ![Startup Applications](docs/screenshots/startup_apps.jpg) |
+
+| Running Applications (Process Manager) |
+| :---: |
+| ![Running Applications](docs/screenshots/running_apps.jpg) |
 
 ---
 
